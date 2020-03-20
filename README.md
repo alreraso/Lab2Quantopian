@@ -1,1 +1,2 @@
-# Lab2Quantopian
+# Lab3Quantopian
+#Document by alrramirezso@unal.edu.co
